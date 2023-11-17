@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dooray',						                # module 이름
-    version='0.0.1', 					                # 버전 등록
+    version='0.0.7', 					                # 버전 등록
     #long_description = long_description,			    # readme.md 등록
     #long_description_content_type = 'text/markdown',    # readme.md 포맷
     description='dooray api',                           # 패키지 설명
